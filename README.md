@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WhatIsMyRealName
+- 👀 I’m interested in python, AI, gaming
+- 🌱 I’m currently learning maths and physics
+- ⚡ Fun fact: my compiter is VERY slow
