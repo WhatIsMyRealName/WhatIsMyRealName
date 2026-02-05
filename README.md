@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @WhatIsMyRealName
 - 👀 I’m interested in python, AI, gaming
 - 🌱 I’m currently learning maths and physics
-- ⚡ Fun fact: my compiter is VERY slow
+- Do you know Bobail? It's an amazing game!
